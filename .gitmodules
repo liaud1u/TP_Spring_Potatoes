@@ -1,0 +1,15 @@
+[submodule "PotatoesBDD"]
+	path = PotatoesBDD
+	url = https://github.com/liaud1u/PotatoesBDD
+[submodule "ProxyService"]
+	path = ProxyService
+	url = https://github.com/liaud1u/ProxyService
+[submodule "PotatoesConfigService"]
+	path = PotatoesConfigService
+	url = https://github.com/liaud1u/PotatoesConfigService
+[submodule "PotatoesDiscoverService"]
+	path = PotatoesDiscoverService
+	url = https://github.com/liaud1u/PotatoesDiscoverService
+[submodule "JavaFXPotatoes"]
+	path = JavaFXPotatoes
+	url = https://github.com/liaud1u/JavaFXPotatoes
